@@ -1,0 +1,5 @@
+# BlurDetector
+
+==============
+
+You have to accommodate accell, gyro, and picture data into right directory to run this program.
