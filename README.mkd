@@ -5,3 +5,5 @@
 You have to accommodate accell, gyro, and picture data into right directory to run this program.
 
 ![directory](https://github.com/Mrk1869/blur_detector/blob/master/directory.png)
+
+Those file are in [this link](https://dl.dropbox.com/u/12208857/snd/blur_detector/data.zip).
