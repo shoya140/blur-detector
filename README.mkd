@@ -2,7 +2,7 @@
 
 ==============
 
-You have to accommodate accell, gyro, and picture data into right directory to run this program.
+You have to accommodate accell, gyro, and picture data into right directory to run this program like ↓↓this↓↓ image.
 
 ![](https://github.com/Mrk1869/blur_detector/blob/master/directory.png)
 
